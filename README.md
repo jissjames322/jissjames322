@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Jiss James</h1>
 
 
 
@@ -10,10 +9,14 @@
 
 
 
+<h1 align="center">Hey there!👋, I'm Jiss James</h1>
+<h3 align="center">Your friendly neighborhood coder</h3>
 
-<h3 align="center">I'm a passionate computer science graduate with a BSc in Computer Science.</h3>
-
+- 🎓 BSc Computer Science grad.
+  
 - 🌱 I’m currently learning **Java Full Stack**
+
+- 🐱‍💻 Passionate about hacking and computers.
 
 - 📫 How to reach me **jissjames322@gmail.com**
 

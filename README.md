@@ -1,5 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Jiss James</h1>
+
+
+
+
+  
+![Logo](https://i.pinimg.com/736x/1b/f8/bb/1bf8bb5327eb7a0ca1c5b4c6d9af07a8.jpg)
+
+
+
 <h3 align="center">I'm a passionate computer science graduate with a BSc in Computer Science.</h3>
 
 - 🌱 I’m currently learning **Java Full Stack**

@@ -9,18 +9,18 @@
 
 
 
-<h1 align="center">Hey there!👋, I'm Jiss James</h1>
+<h1 align="center">Hey there!👋, I'm Jiss James </h1>
 <h3 align="center">Your friendly neighborhood coder</h3>
 
 - 🎓 BSc Computer Science grad.
   
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 🐱‍💻 Passionate about hacking and computers.
+- 🐱‍💻 Passionate about **hacking** and **computers**.
 
 - 📫 How to reach me **jissjames322@gmail.com**
 
-- ⚡ Fun fact **📝 Editor by day, coder by night! 🌙👩‍💻**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

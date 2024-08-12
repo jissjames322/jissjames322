@@ -12,15 +12,22 @@
 <h1 align="center">Hey there!👋, I'm Jiss James </h1>
 <h3 align="center">Your friendly neighborhood coder</h3>
 
-- 🎓 BSc Computer Science grad.
-  
-- 🌱 I’m currently learning **Java Full Stack**
+- I've got a degree in BSc Computer Science, because who doesn't love a good piece of paper? 🎓
+ 
+- I'm proficient in Java, SQL, and Python, but let's be real, I'm still figuring things out. 💻
 
-- 🐱‍💻 Passionate about **hacking** and **computers**.
+- I love ethical hacking and pentesting (because security matters!) 🔒
 
 - 📫 How to reach me **jissjames322@gmail.com**
 
+ **What I'm into (besides causing chaos)**
 
+- Music and movies (Marvel movies and anime, duh!) 🎵🍿
+- Coding, obviously (it's like my own personal brand of therapy) 🤓
+
+**Let's get weird!**
+
+If you're looking for a partner in crime or just want to chat about the meaninglessness of life, I'm your guy! 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

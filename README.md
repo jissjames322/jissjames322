@@ -12,6 +12,7 @@
 <h1 align="center">Hey there!👋, I'm Jiss James </h1>
 <h3 align="center">Your friendly neighborhood coder</h3>
 
+- MCA Student ⌨️
 - I've got a degree in BSc Computer Science, because who doesn't love a good piece of paper? 🎓
  
 - I'm proficient in Java, SQL, and Python, but let's be real, I'm still figuring things out. 💻

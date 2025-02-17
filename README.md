@@ -5,11 +5,11 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/99/cd/0f/99cd0f53f73593cd654e461a5f9996fa.jpg" alt="Logo" width="725" height="235"/>
 </p>
+
+<div align="center">
   
-
 # 💫 About Me:
-MCA STUDENT <br>Cybersecurity Enthusiast<br>Love ethical hacking<br>Hack the box
-
+MCA STUDENT | Cybersecurity Enthusiast | Love ethical hacking | Web Design
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lil.jisz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jissjames-cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jissjames322@gmail.com) 
@@ -33,8 +33,6 @@ MCA STUDENT <br>Cybersecurity Enthusiast<br>Love ethical hacking<br>Hack the box
 ---
 [![](https://visitcount.itsvg.in/api?id=jissjames322&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+</div>
 
 

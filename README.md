@@ -95,7 +95,9 @@ With one bold move...
   </tr>
   </table>
 </div>
-###🔝 Top Contributed Repo
+
+### Top Contributed Repo
+
 <table>
   <tr>
     <td width="60%">

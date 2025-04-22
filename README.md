@@ -32,10 +32,9 @@
                                                 
 -------------------------
 Username : Jiss James
-OS: Windows 11,Kali Linux
-Nicknames: Webhead , The Menace , Masked Moron
+Nicknames: Webhead , The Menace , Masked Moron 
 Location: Across the multiverse
-Learning: New Stuffs
+Learning: MCA
 Hobbies:  Gaming, Anime, Learning instruments,
           Swinging around , Catching criminals, Hack the Box.
 ```

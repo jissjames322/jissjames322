@@ -10,7 +10,31 @@
 <div align="center">
   
 # 💫 About Me:
-MCA STUDENT | Cybersecurity Enthusiast | Love Ethical Hacking | Web Design
+
+
+<table>
+  <tr>
+    <td width="320">
+      <img src="/config/waitin.jpeg" alt="hey i found this also from someone looked cool" width="320" />
+    </td>
+    <td valign="top" align="left">
+
+
+```csharp
+-------------------------
+Username : Jiss James
+OS: Windows 11,Kali Linux
+Nicknames: Webhead , The Menace , Masked Moron
+Location: Across the multiverse
+Learning: New Stuffs
+Hobbies:  Gaming, Anime, Learning instruments,
+          Swinging around , Catching criminals, Hack the Box.
+```
+
+  </td>
+  </tr>
+</table>
+      
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/lil.jisz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jissjames-cs) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jissjames322@gmail.com) 
@@ -21,24 +45,70 @@ MCA STUDENT | Cybersecurity Enthusiast | Love Ethical Hacking | Web Design
 
 
 
+<div align="center" >
+  <table>
+    <tr>
+      <td width="50%" align="left">
+        <p>⚡️ In a world full of semicolons and stack traces...
+
+Where bugs lurk in the shadows and commits whisper secrets...
+
+A lone developer rises.
+
+With one bold move...
+</p>
+        <h1 style="font-family: 'Arial Black', sans-serif; font-size: 36px; color: #333;">I'LL TAKE A POTATO CHIP... AND EAT IT!  😤🥔</h1>
+      </td>
+      <td width="50%" align="center">
+        <img src="/config/eatit.gif" alt="Potato Chip GIF" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jissjames322&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jissjames322&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jissjames322&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%" align="center">
+        
+   ![](https://github-readme-stats.vercel.app/api?username=jissjames322&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+        
+  <br/>
+        
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=jissjames322&theme=dark&hide_border=true)
+        
+  <br/>
+        
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jissjames322&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+      
+</td>
+      
+<td width="40%" align="center">
+       <img src="/config/insane.jpeg" alt="insaneright" width="100%"/>
+         <img src="/config/legit.jpeg" alt="insaneright" width="100%"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jissjames322&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+  </td>
+  </tr>
+  </table>
+</div>
+###🔝 Top Contributed Repo
+<table>
+  <tr>
+    <td width="60%">
+      <img src="https://github-contributor-stats.vercel.app/api?username=jissjames322&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+    </td>
+    <td width="40%">
+      <!-- Right side image - replace with your image -->
+      <img src="/config/bat.jpeg" alt="Your Second Image" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jissjames322&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jissjames322&icon=7&color=0)](https://visitcount.itsvg.in)

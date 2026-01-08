@@ -6,6 +6,8 @@
 
   <img src="https://i.pinimg.com/originals/99/cd/0f/99cd0f53f73593cd654e461a5f9996fa.jpg" alt="Logo" width="725" height="235"/>
 </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Lines" width="auto"/>
+
 
 <div align="center">
   
@@ -100,7 +102,7 @@ With one bold move...
       
 <td width="40%" align="center">
        <img src="/config/insane.jpeg" alt="insaneright" width="100%"/>
-         <img src="/config/legit.jpeg" alt="insaneright" width="100%"/>
+         <img src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc4OTkzNTgsIm5iZiI6MTc2Nzg5OTA1OCwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA4VDE5MDQxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3NWI1MzRlM2ZkZWU1NDVhMGUzNGQ4YmZhNjNhMGQyNjlkNmIyYTBiYjNhNGJiMDBmNzk1OGI4Y2RmMjM4MzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DnF3FI9aPFWV6D83rXnu3uKPkwq8rufgK5jQNM22-kY" alt="insaneright" width="100%"/>
 
   </td>
   </tr>
@@ -116,7 +118,7 @@ With one bold move...
     </td>
     <td width="40%">
       <!-- Right side image - replace with your image -->
-      <img src="/config/bat.jpeg" alt="Your Second Image" width="100%"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Your Second Image" width="auto" height="auto"/>
     </td>
   </tr>
 </table>

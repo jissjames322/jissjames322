@@ -113,6 +113,11 @@ With one bold move...
 
 <table>
   <tr>
+    <td width="40%">
+      <!-- Right side image - replace with your image -->
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxpbjRiZGNqMTdpdmdobDdyMmg0d3p6bm1kZjZ6ZHcwOTc3d2s5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m2Q7FEc0bEr4I/giphy.gif" alt="Your Second Image" width="auto" height="auto"/>
+    </td>
+    
 
   <td width="40%">
       <!-- Right side image - replace with your image -->

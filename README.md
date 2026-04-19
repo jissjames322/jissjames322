@@ -116,7 +116,7 @@ With one bold move...
     <td width="60%">
             <img src="https://tenor.com/bVsYs.gif" alt="Your first Image" width="auto" height="auto"/>
 
-    </td>
+  </td>
     <td width="40%">
       <!-- Right side image - replace with your image -->
       <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Your Second Image" width="auto" height="auto"/>

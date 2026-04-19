@@ -114,7 +114,8 @@ With one bold move...
 <table>
   <tr>
     <td width="60%">
-      https://tenor.com/bVsYs.gif
+            <img src="https://tenor.com/bVsYs.gif" alt="Your first Image" width="auto" height="auto"/>
+
     </td>
     <td width="40%">
       <!-- Right side image - replace with your image -->

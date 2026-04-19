@@ -114,7 +114,7 @@ With one bold move...
 <table>
   <tr>
     <td width="60%">
-      <img src="https://tenor.com/en-IN/view/ron-swanson-throws-out-his-computer-gif-26050062" alt="Your First Image" width="auto" height="auto"/>
+      [<img src="[https://tenor.com/en-IN/view/ron-swanson-throws-out-his-computer-gif-26050062](https://tenor.com/bVsYs.gif)" alt="Your First Image" width="auto" height="auto"/>](https://tenor.com/bVsYs.gif)
     </td>
     <td width="40%">
       <!-- Right side image - replace with your image -->

@@ -113,10 +113,7 @@ With one bold move...
 
 <table>
   <tr>
-    <td width="60%">
-            <img src="https://tenor.com/bVsYs.gif" alt="Your first Image" width="auto" height="auto"/>
-
-  </td>
+<div class="tenor-gif-embed" data-postid="26050062" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/ron-swanson-throws-out-his-computer-gif-26050062">Ron Swanson Throws Out His Computer GIF</a>from <a href="https://tenor.com/search/ron+swanson+throws+out+his+computer-gifs">Ron Swanson Throws Out His Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
     <td width="40%">
       <!-- Right side image - replace with your image -->
       <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Your Second Image" width="auto" height="auto"/>

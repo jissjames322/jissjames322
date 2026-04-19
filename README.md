@@ -114,7 +114,7 @@ With one bold move...
 <table>
   <tr>
     <td width="60%">
-      <img src="https://github-contributor-stats.vercel.app/api?username=jissjames322&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+      <img src="https://tenor.com/en-IN/view/ron-swanson-throws-out-his-computer-gif-26050062" alt="Your First Image" width="auto" height="auto"/>
     </td>
     <td width="40%">
       <!-- Right side image - replace with your image -->

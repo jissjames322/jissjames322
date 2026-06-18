@@ -39,6 +39,16 @@ Location: Across the multiverse
 Learning: MCA
 Hobbies:  Gaming, Anime, Learning instruments,
           Swinging around , Catching criminals, Hack the Box.
+Role : IT Administrator & Junior Software Developer
+Focus : Cybersecurity, System Administration & Full-Stack Development
+
+Currently Learning:
+-> Threat Detection & Incident Response
+-> SIEM Engineering (Wazuh)
+-> Django, React & Modern Web Technologies
+-> Ethical Hacking & Security Research
+
+
 ```
 
   </td>
